@@ -1,0 +1,121 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "PlayerExplode",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "67a19d0d-335b-4152-a787-4ccdddc4fb04"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "0ccbeacb-0aa6-4304-b4be-cfb504ee73e3"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "9a734b48-2b89-4e21-a3cb-86db2ae08b2b"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "f111ff27-44f2-4e0c-b5d1-b2d26f85474c"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "c3271bf8-ae25-4e5c-9a42-9a1271f7b5c4"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "9756bf0a-2f86-4bbe-bc99-4afd5f2fbf0f"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "846bf8df-667d-4da6-a74f-24e67bda45b4"
+            }
+          },
+          {
+            "frame": 0.23333333333333334,
+            "value": {
+              "__uuid__": "04e27d33-90df-431a-83a2-eeffb341b2f7"
+            }
+          },
+          {
+            "frame": 0.26666666666666666,
+            "value": {
+              "__uuid__": "c33efb5c-2aae-4c6d-bc2b-611a9b534754"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "dace0c88-8b76-4c6b-af4b-54baf547c405"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "5581c9d3-b8a1-4f71-a762-cccc9da93dd0"
+            }
+          },
+          {
+            "frame": 0.36666666666666664,
+            "value": {
+              "__uuid__": "65e4212b-1890-4109-a2ce-499e0c74a739"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "651365dd-2299-4fb8-81c1-a973d54492b6"
+            }
+          },
+          {
+            "frame": 0.43333333333333335,
+            "value": {
+              "__uuid__": "b12ca463-8913-458c-bf2a-f0727dfd51d5"
+            }
+          },
+          {
+            "frame": 0.4666666666666667,
+            "value": {
+              "__uuid__": "aa00e856-9c2f-4ac6-8df6-6fbc30ae8992"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "9ea90276-606c-443b-b89f-463189c6fc95"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.5166666666666667,
+      "func": "removeplayerExplode",
+      "params": []
+    }
+  ]
+}
